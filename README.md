@@ -39,3 +39,5 @@ https://github.com/1N3/IntruderPayloads
 
 https://github.com/gellin/bantam
 
+https://github.com/riramar/Web-Attack-Cheat-Sheet
+
