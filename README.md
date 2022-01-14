@@ -62,7 +62,7 @@ https://github.com/blackcrw/wprecon
 https://github.com/BitTheByte/Eagle сканер уязвимости
 https://github.com/1N3/BlackWidow еще сканер
 https://github.com/Arachni/arachni
-
+https://github.com/Tuhinshubhra/RED_HAWK
 https://github.com/wpscanteam/wpscan WP 
 
 
