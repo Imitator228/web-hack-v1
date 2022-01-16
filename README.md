@@ -66,3 +66,7 @@ https://github.com/Tuhinshubhra/RED_HAWK
 https://github.com/wpscanteam/wpscan WP 
 
 
+https://github.com/needle-wang/sqlmap-gtk графическая оболочка sqlmap
+
+https://github.com/tr0uble-mAker/POC-bomber
+
