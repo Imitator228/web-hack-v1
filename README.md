@@ -70,3 +70,8 @@ https://github.com/needle-wang/sqlmap-gtk графическая оболочк�
 
 https://github.com/tr0uble-mAker/POC-bomber
 
+https://github.com/lintstar/About-Attack
+
+https://github.com/khalilbijjou/WAFNinja
+
+https://github.com/Acmesec/BurpDomain
